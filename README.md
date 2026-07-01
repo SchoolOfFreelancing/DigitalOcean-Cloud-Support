@@ -61,7 +61,7 @@ We provide end-to-end technical support for any client running on DigitalOcean �
 1. **Consultation** — Share your requirements or current DigitalOcean setup
 2. **Assessment** — We review your infrastructure and define the scope
 3. **Implementation** — Setup, configuration, or fix carried out
-4. **Delivery** — Completed within **3 days**
+4. **Delivery** — Completed within **3 business days**
 5. **Support** — Post-delivery support included
 
 ---
@@ -73,4 +73,4 @@ We provide end-to-end technical support for any client running on DigitalOcean �
 
 ---
 
-*Need custom DigitalOcean support not listed above? Contact us — we support all DigitalOcean products and services.*
+*Need custom DigitalOcean support not listed above? [Contact us](https://wa.me/8801748973769) — we support all DigitalOcean products and services.*
