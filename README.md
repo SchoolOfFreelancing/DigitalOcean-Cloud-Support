@@ -1,10 +1,12 @@
 # DigitalOcean Cloud Support
 
-Professional DigitalOcean support: expert setup, management, and troubleshooting for your cloud infrastructure. All support solutions delivered within **3 days**.
+Professional DigitalOcean support: expert setup, management, and troubleshooting for your cloud infrastructure. All support solutions delivered within **3 business days**.
 
 ![Provider](https://img.shields.io/badge/Platform-DigitalOcean-0069FF)
-![Delivery](https://img.shields.io/badge/Delivery-3%20Days-brightgreen)
+![Delivery](https://img.shields.io/badge/Delivery-3%20BusinessDays-brightgreen)
+![Format](https://img.shields.io/badge/Format-Remote--Job%20-brightgreen)
 ![Support](https://img.shields.io/badge/Support-24%2F7-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
