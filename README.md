@@ -2,12 +2,12 @@
 
 Professional DigitalOcean infrastructure setup, management, and troubleshooting. Any support will be delivered within **3 days**.
 
+---
+
 ![Duration](https://img.shields.io/badge/Duration-3%20Days-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange)
 ![Format](https://img.shields.io/badge/Format-Hands--on%20Labs-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
----
 
 ## 🚀 Services Offered
 
